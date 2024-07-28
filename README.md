@@ -1,7 +1,7 @@
 # Library_Management_System_Using_Data_Structures implemented using C Language
 This repp contains project on Library Management System it provides functionalities for both administrators and students and is done using data structures like 2D Array, linkedlist, and File handling concepts to manage books, students, and their interactions within the library system.
 
-##Administrators Features
+## Administrators Features
 Add Book: Admins can add new books to the library database, including details such as title, author, ISBN, and availability.
 
 Delete Book: Admins can remove books from the library database based on the book's ISBN.
